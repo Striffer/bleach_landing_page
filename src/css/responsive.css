@@ -70,8 +70,8 @@
 
 @media (max-width: 420px) {
     main .conteudo.selecionado .personagem {
-        max-height: 650px;
-        right: -150px;
+        max-height: 500px;
+        right: -50px;
     }
 
     main .conteudo.selecionado .conteudo_faccao .logo {
